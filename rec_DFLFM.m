@@ -1,3 +1,8 @@
+% This reconstruction code was adapted from the publicly available
+% 2pSAM reconstruction framework by Zhao et al., Cell (2023),
+% and modified for DFLFM.
+% Original repository: https://github.com/BBNCELi/2pSAM_recon
+
 clc;clear;
 addpath(genpath('utils'));
 PSF_Genpath = 'psf\16x';
