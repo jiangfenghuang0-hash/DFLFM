@@ -8,3 +8,5 @@ Z. Zhao, Y. Zhou, B. Liu, et al., “Two-photon synthetic aperture microscopy fo
 
 Original code:
 https://github.com/BBNCELi/2pSAM_recon
+
+Add acknowledgment for adapted reconstruction code
